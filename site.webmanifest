@@ -1,0 +1,31 @@
+{
+  "name": "Guide Interactif Proxmox VE — CFP-CMD",
+  "short_name": "Proxmox Guide",
+  "description": "Guide interactif complet Proxmox VE : virtualisation, réseau, sécurité, cluster HA, stockage, Docker, monitoring, sauvegarde et automatisation.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "assets/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#0d0f12",
+  "background_color": "#0d0f12",
+  "display": "standalone"
+}
